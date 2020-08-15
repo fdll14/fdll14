@@ -1,8 +1,12 @@
-<p align="center"><a name="top" href="https://facebook.com/hrry.elrc/"><img width="60%" src="https://i.ibb.co/kB9zNSP/welcome.gif"></a></p>
+
+<h2> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p align="center"><a name="top" href="https://facebook.com/fdll14/"><img width="60%" src="https://i.ibb.co/kB9zNSP/welcome.gif"></a></p>
 
 ##  
 <p align="center"><b>:ribbon: This is my GitHub profile, here are some of my personal repositories. You can contact me by clicking the welcome banner :ribbon:</b></p>
 
+<!--
 ### Hi there 👋
 
 <!--
