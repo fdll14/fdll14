@@ -1,3 +1,8 @@
+<p align="center"><a name="top" href="https://facebook.com/hrry.elrc/"><img width="60%" src="https://i.ibb.co/kB9zNSP/welcome.gif"></a></p>
+
+##  
+<p align="center"><b>:ribbon: This is my GitHub profile, here are some of my personal repositories. You can contact me by clicking the welcome banner :ribbon:</b></p>
+
 ### Hi there 👋
 
 <!--
